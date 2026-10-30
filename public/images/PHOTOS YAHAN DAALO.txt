@@ -1,0 +1,19 @@
+IS FOLDER MEIN APNI PHOTOS DAALO
+================================
+
+Har photo ka naam BILKUL AISA hona chahiye:
+
+  palak.jpg
+  shanu.jpg
+  sweta.jpg
+  yukti.jpg
+  amit.jpg
+  prashant.jpg
+  nikku.jpg
+  rajesh.jpg
+  sumit.jpg
+
+- Naam lowercase mein ho
+- Extension .jpg ya .png kuch bhi ho sakti hai
+  (agar .png hai toh campers.js mein bhi .png karo)
+- Photo yahi folder mein daalo, koi subfolder mat banao
