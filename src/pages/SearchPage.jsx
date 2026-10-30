@@ -95,7 +95,7 @@ export default function SearchPage() {
         {/* Badge */}
         <div className="badge">
           <span className="badge-dot" />
-          Camp Portal 2024
+          Camp Portal 2026
         </div>
 
         {/* Heading */}

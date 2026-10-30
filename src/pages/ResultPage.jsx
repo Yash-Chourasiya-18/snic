@@ -74,7 +74,7 @@ export default function ResultPage() {
 
           {/* Name */}
           <h1 className="result-name">{camper.name}</h1>
-          <p className="result-subtitle">Camp Participant · 2024</p>
+          <p className="result-subtitle">Camp Participant · 2026</p>
 
           {/* Photo Card */}
           <div className="photo-card">
